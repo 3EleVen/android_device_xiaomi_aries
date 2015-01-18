@@ -23,6 +23,7 @@ on init
     mkdir /system
     mkdir /system1
     mkdir /data
+    mkdir /data_root 
     mkdir /cache
     mkdir /external_sd
     mount /tmp /tmp tmpfs
